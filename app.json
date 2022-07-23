@@ -1,7 +1,7 @@
 {
   "name": "SUMI-ALPHA",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Badboybhushitha/SUMI-ALPHA-MD",
+  "repository": "https://github.com/nexusNw/Gojo-Satoru",
   "logo": "https://user-images.githubusercontent.com/103347448/177817219-bd8ebec7-adbc-4fce-bc95-e1f8ec7658b0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
