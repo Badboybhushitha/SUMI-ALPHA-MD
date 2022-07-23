@@ -43,6 +43,8 @@ Add FFmpeg to PATH environment variable
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
+* OWNER MESSAGE [MESSAGE](http://wa.me/94742427578)
+* SUPPORT GROUP [JOIN](https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx)
 
 </details>
 
