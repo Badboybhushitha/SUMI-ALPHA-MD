@@ -27,7 +27,7 @@ global.owner = ['94742427578'] //Owner number in aive msg
 global.premium = ['94742427578'] //Owner Number info
 global.ownernomer = '94742427578' //Owner Number <<<
 global.ownernumber = ["94767761566"],//Owner Number 
-global.react = ["👨‍💻"] //React in Owner Message  
+global.ownerreactmoji = ["👨‍💻"] //React in Owner Message  
 
 
 global.ownername = '😎BHUSHITHA' //Owner Name
