@@ -32,7 +32,7 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
 
 ## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/Badboybhushitha/SUMI-ALPHA-MD/fork)
  
 ## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
