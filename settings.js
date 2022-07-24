@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivelogo = 'https://user-images.githubusercontent.com/108208262/179673634-0f3a4d98-4ba5-4656-84af-eacb8d69e938.jpg' //Costomize Alivelogo(type your message in'')
+global.alivelogo = ("./DragonMedia/image/RedDragon.jpg")
 global.alivemsg = `My Name is SUMI ALPHA 🧘‍♂️
 My Owner Name is BHUSHITHA👨‍💻` //Costomize Alive Message (type your message in `` )
 
