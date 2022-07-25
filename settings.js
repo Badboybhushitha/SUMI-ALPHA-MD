@@ -33,10 +33,10 @@ global.ownerreactmoji = ["👨‍💻"] //React in Owner Message
 global.ownername = '😎BHUSHITHA' //Owner Name
 global.botname = 'SUMI ALPHA' //Bot Name
 
-global.button = '🌍WEBSITE 🌍' //Costomize A Button Name In Alive Message
+global.button2 = '🌍WEBSITE 🌍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/botimam/Red-Dragon.git' //Change Yout Button's URL
 
-global.button = '☰ WHTSAPPIS GRUP ☰' //Costomize B Button Name In Alive Message
+global.button1 = '☰ WHTSAPPIS GRUP ☰' //Costomize B Button Name In Alive Message
 global.btnurl = 'https://chat.whatsapp.com/LLbFBtwJj4rFlKm7bAbPME' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
@@ -50,7 +50,7 @@ global.dragonemoji = '👻' // Menu emoji
 global.footer = '©_Bhushitha.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/Badboybhushitha/SUMI-ALPHA-MD' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
