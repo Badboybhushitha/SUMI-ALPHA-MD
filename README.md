@@ -30,7 +30,7 @@ LATEST VERSION 7.0 (2022-07-17 [Search videos/songs results are not match =fixed
 👇To proccess👇
 </p>
 
-## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@BhushithaArunod/SUMI-BOT-QR?v=1)
  
 ## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/Badboybhushitha/SUMI-ALPHA-MD/fork)
  
