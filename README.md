@@ -38,7 +38,7 @@ Add FFmpeg to PATH environment variable
 <!-- SUMI-ALPHA-MD -->
 <b><details><summary>SUMI-ALPHA-MD</summary></b>
 
-* Scan QR In Your Whatsapp From [Here](https://replit.com/@BhushithaArunod/SUMI-BOT-QR?v=1)
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@BhushithaArunod/SUMI-ALPHA-MD-BOT?v=1)
 * Fork This Repo By Clicking [Here](https://github.com/Badboybhushitha/SUMI-ALPHA-MD/fork)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
 * Owner Message [Message](http://wa.me/+94742427578)
