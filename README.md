@@ -36,7 +36,7 @@ Add FFmpeg to PATH environment variable
 
 
 <!-- SUMI-ALPHA-MD -->
-<b><details><summary>Start via Heroku</summary></b>
+<b><details><summary>SUMI-ALPHA-MD</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@BhushithaArunod/SUMI-BOT-QR?v=1)
 * Fork This Repo By Clicking [Here](https://github.com/Badboybhushitha/SUMI-ALPHA-MD/fork)
