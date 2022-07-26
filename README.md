@@ -35,12 +35,14 @@ Add FFmpeg to PATH environment variable
 </details>
 
 
-<!-- Start via Heroku -->
+<!-- SUMI-ALPHA-MD -->
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@BhushithaArunod/SUMI-BOT-QR?v=1)
 * Fork This Repo By Clicking [Here](https://github.com/Badboybhushitha/SUMI-ALPHA-MD/fork)
 * then Deploy The Bot From [Here](https://heroku.com/deploy)
+* Owner Message [Message](http://wa.me/+94742427578)
+* support grup [join](https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
