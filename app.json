@@ -1,8 +1,8 @@
 {
-  "name": "Gojo-Satoru",
-  "description": "whatsapp md bot build with nodejs",
+  "name": "SUMI-ALPHA-MD",
+  "description": "SUMIALPHA BOT OWNER IS BHUSHITHA",
   "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "logo": "https://user-images.githubusercontent.com/103347448/177817219-bd8ebec7-adbc-4fce-bc95-e1f8ec7658b0.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
