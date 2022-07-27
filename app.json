@@ -1,8 +1,8 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "SUMI-ALPHA-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "logo": "https://user-images.githubusercontent.com/103347448/181296287-7cbc0f98-18c0-4ca5-ace1-e1bf8aa7283e.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
