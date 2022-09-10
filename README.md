@@ -17,4 +17,4 @@ OWNER LOGO
 
 
 THANKS TO
-<a href="https://ibb.co/NYGG2zG"><img src="https://i.ibb.co/kcPP2FP/Whats-App-Image-2022-09-10-at-18-26-47.jpg" alt="Whats-App-Image-2022-09-10-at-18-26-47" border="0"></a> UVINDU
+<a href="https://ibb.co/NYGG2zG"><img src="https://i.ibb.co/kcPP2FP/Whats-App-Image-2022-09-10-at-18-26-47.jpg" alt="Whats-App-Image-2022-09-10-at-18-26-47" border="0"></a> UVINDU <img src="https://i.ibb.co/MhJzw1f/Whats-App-Image-2022-09-10-at-18-26-48.jpg" alt="Whats-App-Image-2022-09-10-at-18-26-48" border="0">
