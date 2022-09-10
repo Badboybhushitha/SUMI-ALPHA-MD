@@ -1,0 +1,93 @@
+[
+  {
+    "jid": "94742427578@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "94767761567@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 59
+      },
+      {
+        "nama": "#group",
+        "count": 7
+      },
+      {
+        "nama": "#donate",
+        "count": 9
+      },
+      {
+        "nama": "#welcome",
+        "count": 4
+      },
+      {
+        "nama": "#infobot",
+        "count": 2
+      },
+      {
+        "nama": "#close",
+        "count": 4
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#afk",
+        "count": 1
+      },
+      {
+        "nama": "#setopen",
+        "count": 1
+      },
+      {
+        "nama": "#attp",
+        "count": 1
+      },
+      {
+        "nama": "#setclose",
+        "count": 1
+      },
+      {
+        "nama": "#setwelcome",
+        "count": 1
+      },
+      {
+        "nama": "#emojimix",
+        "count": 1
+      },
+      {
+        "nama": "#listbahasa",
+        "count": 1
+      },
+      {
+        "nama": "#react",
+        "count": 7
+      },
+      {
+        "nama": "#cogan",
+        "count": 1
+      },
+      {
+        "nama": "#addsewa",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "212646766182@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  }
+]
