@@ -17,6 +17,7 @@ OWNER LOGO
 
 
 THANKS TO
+"https://media.giphy.com/media/l0MYxqKEmJoL150TC/giphy.gif"
 
 <a href="https://ibb.co/NYGG2zG"><img src="https://i.ibb.co/kcPP2FP/Whats-App-Image-2022-09-10-at-18-26-47.jpg" alt="Whats-App-Image-2022-09-10-at-18-26-47" border="0"></a> UVINDU
 
