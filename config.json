@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["94767761567@s.whatsapp.net","94742427578@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ BHUSHITHA ×፝֟͜×",
+    "instagram" : "http://wa.me/+94742427578?text=.menu",
+    "botName": "NOTI-MY QUEEN",
+    "footer": "power by bhushitha",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": false,
+    "autorespond": false,
+    "autoblok212": false,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
